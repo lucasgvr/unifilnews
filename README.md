@@ -1,7 +1,6 @@
-```
 # Projeto - Unifil News
 
-![screenshot](/misc/telas/UnifilNews 1.png)
+![image](misc/telas/UnifilNews%201.png)
 
 ## Tema:
 
@@ -22,4 +21,3 @@ O tema central abordado no blog envolve Desenvolvimento Profissional e Acadêmic
 A abordagem visa tornar o conteúdo acessível a todos os públicos, estimulando a participação ativa e fomentando discussões construtivas. Ao compartilhar informações de forma clara e envolvente, aspiro criar uma atmosfera de aprendizado contínuo, onde cada leitor se sinta parte integrante do processo educacional.
 
 Em resumo, o blog representa mais do que um simples espaço virtual. Ele se configura como um agente transformador, conectando conhecimentos, experiências e pessoas em prol do enriquecimento mútuo.
-```
