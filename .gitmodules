@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/lucasgvr/crud-robson-backend.git
+	url = https://github.com/lucasgvr/unifilnews-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/lucasgvr/crud-robson-frontend.git
+	url = https://github.com/lucasgvr/unifilnews-frontend.git
