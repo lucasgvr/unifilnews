@@ -2,6 +2,10 @@
 
 ![image](misc/telas/UnifilNews%201.png)
 
+## Link de Acesso:
+
+https://unifilnews.netlify.app
+
 ## Tema:
 
 Meu projeto de práticas de extensão propõe a criação e manutenção de um blog dedicado à disseminação de conhecimentos e à promoção da interação entre estudantes, professores e a comunidade em geral.
